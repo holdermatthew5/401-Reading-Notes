@@ -1,0 +1,18 @@
+- Sites should be designed for mobile (M) devices first then adjusted to look well on desktop (D).
+- Look for where the current design starts to break down and add media queries there to ensure you're not adding unnecessary difficulty and wasted time.
+- Could I just make one css file for M and one for D then dynamically change script src depending on the device type? Is there a way to find device type on page-load?
+- You may be able to have the page dynamically change for M/D by intentionally letting it break (letting inline elements get out of line when screen shrinks). 
+- Media query = `@media screen and () {/* Code blocks*/}`:
+  - basically a css if statement.
+  - order matter when you make it matter.
+- Don't use pixels, ems, etc for a flexible layout
+- Floats were intentionally made to be ignored by other elements so that there would be no unnatural spacing between content at the bottom of the element being floated around.
+- Could technically use an empty element to stop an element from moving under a floated one, but that blank element would have no other purpose and is frowned upon.
+- Overflow: auto; / overflow: hidden; will cause the parent element to expand to encompas the floated element and push intrusive elements out from under. Don't use if you have to add a parent element.
+- Can also use :after pseudo-selector to apply the following rules:
+  - content: ".";
+  - visibility: hidden;
+  - display: block;
+  - height: 0;
+  - clear: both;
+- Images occassionally are too big for the float causing it to expand to encompase the full image and push other element out of flow. Make sure images are not larger than the float.
