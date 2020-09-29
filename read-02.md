@@ -1,0 +1,13 @@
+- `.show()` - displays selected elements
+- `.hide()` - hides selected elements
+- `.toggle()` - toggles between showing and hiding elements
+- `.fadein()` - fades in selected elements making them opaque
+- `.fadeout()` - fades out selected elements making them transparent
+- `.fadeto()` - changes opacity of selected elements
+- `.fadetoggle()` - hides and shows elements by changing their opacity
+- `.slideup()` - shows selected elements with a sliding motion
+- `.slidedown()` - hides selected elements with a sliding motion
+- `.slidetoggle()` - hides or shows selected elements, with a sliding motion, in the opposite direction of their current state
+- `.delay()` - delays execution of subsequent items in queue
+- `.stop()` - stops an animation if it is currently running
+- `.animate()` - creates custom animations
