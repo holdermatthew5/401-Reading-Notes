@@ -1,13 +1,6 @@
-- `.show()` - displays selected elements
-- `.hide()` - hides selected elements
-- `.toggle()` - toggles between showing and hiding elements
-- `.fadein()` - fades in selected elements making them opaque
-- `.fadeout()` - fades out selected elements making them transparent
-- `.fadeto()` - changes opacity of selected elements
-- `.fadetoggle()` - hides and shows elements by changing their opacity
-- `.slideup()` - shows selected elements with a sliding motion
-- `.slidedown()` - hides selected elements with a sliding motion
-- `.slidetoggle()` - hides or shows selected elements, with a sliding motion, in the opposite direction of their current state
-- `.delay()` - delays execution of subsequent items in queue
-- `.stop()` - stops an animation if it is currently running
-- `.animate()` - creates custom animations
+Big O notation is a form of notation that describes technical aspects of an algorythm
+O(1) takes the same amount of time and storage regardless of input size
+O(N) amount of time and space grows proportional to the size of the input
+O(N^2) ??? seems the same as ^
+O(2^N) doubles with each addition of data
+O(log N) I can't tell if what it's describing is called a binary search or a logarithm, but I've seen it before. Just viewing the center realizing it's too much so ignoring the high end and repeating with the remaining data until we find what we're looking for or we run out of data.
