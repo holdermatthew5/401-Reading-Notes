@@ -17,14 +17,12 @@ Bayesian statistics does account for new data (like being told a die is rigged t
          P(B|A) P(A)
 P(A|B) = -----------
              P(B)
-```
 
 - P(A|B) - Probability of A being true given that B is true.
 - P(B|A) - Probability of B being true given that A is true.
 - P(A) - Probability of A being true
 - P(B) - Probability of B being true
 
-```
 from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import accuracy_score
 
