@@ -8,3 +8,5 @@ Reading notes from course level 401 at Code Fellows.
 [Read 05](read-05.md)
 [Read 05a](read-05a.md)
 [Read 06](read-06.md)
+[Read 07](read-07.md)
+[Read 08](read-08.md)
