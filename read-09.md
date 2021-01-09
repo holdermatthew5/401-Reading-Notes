@@ -40,3 +40,4 @@ y_pred_naive_grade
 
 # Calculate Accuracy of our Classifier
 accuracy_score(y, y_pred_naive_grade)
+```
