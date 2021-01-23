@@ -20,5 +20,5 @@ import csv
 with open('file.csv', 'r') as f:
     data = list(csv.reader(f, delimiter=';'))
 ```
-- It seems this forms the data in 'file.csv' into a list of lists where each nested list is a new line in 'file.csv' and each value from a given line (which was seperated by semicolons for this one - hence the `delimiter=';'`) is at its own index in that lines nested list.
+It seems this forms the data in 'file.csv' into a list of lists where each nested list is a new line in 'file.csv' and each value from a given line (which was seperated by semicolons for this one - hence the `delimiter=';'`) is at its own index in that lines nested list.
     
