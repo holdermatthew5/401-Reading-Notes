@@ -5,6 +5,7 @@ Some modules for linear regression in python are:
   - scipy
   - stats model
   - scikitlearn
+
 `df = pd.DataFrame(boston.data)` can convert a dataset to a pandas dataset but what does it convert from?
 `df.columns` references a list of all columns. assigning it a new value will replace the column namse with those in the new list.
 Add a new column and assign each of its values at the same time with `df['new_row'] = list_of_data`.
