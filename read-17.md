@@ -1,6 +1,6 @@
 ## Web Scraping
 
-Web scraping is an action performed by code which gethers information from any website you choose. To do this we only need the requests module.
+Web scraping is an action performed by code which gathers information from any website you choose. To do this we only need the requests module.
 The information pulled must be altered to meet the needs of our app. To do this we have BeautifulSoup4.
 BeautifulSoup4 can take in an unparsed html file make it human readable and extract information to be used in the app.
 Every site has the right to ban web scrapers or just shut them down in order to keep their own site functioning properly, but most don't care. Check with the site terms and conditions and privacy policy to find whether they have any restrictions against scraping.
