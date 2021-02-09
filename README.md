@@ -19,3 +19,4 @@ Reading notes from course level 401 at Code Fellows.
 [Read 15](read-15.md)
 [Read 17](read-17.md)
 [Read 18](read-18.md)
+[Read 19](read-19.md)
