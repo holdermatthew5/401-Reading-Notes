@@ -24,4 +24,4 @@ Reading notes from course level 401 at Code Fellows.
 [Read 27](read-27.md)
 [Read 28](read-28.md)
 [Read 29](read-29.md)
-[Read 23](read-30.md)
+[Read 30](read-30.md)
