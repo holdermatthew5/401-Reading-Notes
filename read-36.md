@@ -23,6 +23,3 @@ Sit down. Be humble - Don't forget this isn't just about coding prowess they wan
 Com prepared - Ask if there's anything you should study in preparation for the interview or any tools you'll be expected to use. Research and practice common interview questions if possible.
 
 Review your work - Remember maintenance is important in the coding world and seeing you drop the mic after your first attempt could look like you don't care and could leave you with disfunctional code.
-
-## Engineering interview process
-
